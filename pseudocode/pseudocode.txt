@@ -1,0 +1,10 @@
+Start
+Prompt User to enter the score for the first game
+Input score1
+Prompt User to enter the score for the second game
+Input score2
+Prompt User to enter the score for the third game
+Input score3
+Calculate the average: average = (score1 + score2 + score3) / 3
+Display the average score
+End
